@@ -27,10 +27,8 @@ THEN I find a concise, descriptive title
 ## Description - Submission
 
 Welcome to Horiseon is a webpage that includes a navigation bar, header image and webpage contains cards informative with texts and image. Webpage link below: 
-<a href="https://nandustrings6.github.io/Horiseon-Firstever-Homework"></a>
+https://nandustrings6.github.io/Horiseon-Firstever-Homework
 
-## Website screenshot can be found here: 
-<link rel="Website screenshot" href="./assets/Website-screenshot-recording.mp4"> 
 
 
 
